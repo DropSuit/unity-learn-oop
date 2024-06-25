@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pentagram
+  - Bullet
+  - Item
+  - Powerup
   layers:
   - Default
   - TransparentFX
@@ -40,4 +44,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1494395829
+    locked: 0
+  - name: Objects
+    uniqueID: 144422687
+    locked: 0
+  - name: Enemies
+    uniqueID: 1601511697
+    locked: 0
+  - name: Player
+    uniqueID: 1396956213
+    locked: 0
+  - name: Bullet
+    uniqueID: 1109817347
+    locked: 0
+  - name: Item
+    uniqueID: 339897577
     locked: 0
